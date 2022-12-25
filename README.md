@@ -14,7 +14,7 @@
 - ### Setting up files
      - Clone or download the repository: ```git clone https://github.com/imahdiahz/tweet.git```
      - Edit config.py   
-        - Replace your API  > appid/apphash < Get them from[Here](https://my.telegram.org)
+        - Replace your API  > appid/apphash < Get them from [Here](https://my.telegram.org)
         - REPLACE OTHER VARIABLEs 
 - ### Installing requirements
     - Install required packages using ```pip install -U -r requirements.txt```
