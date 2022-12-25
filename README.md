@@ -20,4 +20,4 @@
     - Install required packages using pip install -U -r requirements.txt
     - Start The Bot : python tweet.py
 - ### OdinGame
-    - Telegram Chsnnel: [OdinGame](https://t.me/odin_game)
+    - Telegram Channel: [OdinGame](https://t.me/odin_game)
