@@ -1,4 +1,4 @@
-!Python !Pyrogram ![GitHub license](https://github.com/iMahdiahz/Tweet/blob/master/LICENSE)
+!Python !Pyrogram ![GitHub license](https://github.com/imahdiahz/tweet/blob/main/LICENSE)
 -
 ![GitHub forks](https://GitHub.com/iMahdiahz/tweet/network/)
 
