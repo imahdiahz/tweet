@@ -1,5 +1,4 @@
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GitHub license](https://github.com/imahdiahz/tweet/blob/master/LICENSE)
-
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <!-- ![GitHub forks](https://github.com/imahdiahz/tweet/network/members)
 
 ![GitHub stars](https://github.com/imahdiahz/tweet/stargazers) -->
@@ -21,3 +20,5 @@
     - Start The Bot : ```python tweet.py```
 ### OdinGame
 - Telegram Channel: [OdinGame](https://t.me/odin_game)
+
+![GitHub license](https://github.com/imahdiahz/tweet/blob/master/LICENSE)
