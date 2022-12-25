@@ -12,12 +12,12 @@
    - 🔥 پنل شیشه ای
 ## How To Install/Use  ⚙️
 - ### Setting up files
-     -Clone or download the repository: git clone https://github.com/imahdiahz/tweet.git
-     -Edit config.py   
+     - Clone or download the repository: ```git clone https://github.com/imahdiahz/tweet.git```
+     - Edit config.py   
         - Replace your API  > appid/apphash < Get them from[Here](https://my.telegram.org)
         - REPLACE OTHER VARIABLEs 
 - ### Installing requirements
-    -Install required packages using pip install -U -r requirements.txt
-    -Start The Bot : python tweet.py
+    - Install required packages using ```pip install -U -r requirements.txt```
+    - Start The Bot : ```python tweet.py```
 ### OdinGame
 - Telegram Channel: [OdinGame](https://t.me/odin_game)
