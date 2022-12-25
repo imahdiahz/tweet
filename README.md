@@ -2,5 +2,5 @@
 -
 ![GitHub forks](https://GitHub.com/imahdiahz/tweet/network/)
 
-![GitHub stars](https://GitHub.com/imahdiahz/tweet/stargazers/)
+![GitHub stars](https://github.com/imahdiahz/tweet/stargazers)
 # ربات ارسال بیانیه در کانال برای گیم های متنی 🔥
