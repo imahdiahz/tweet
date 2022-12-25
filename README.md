@@ -21,4 +21,5 @@
 ### OdinGame
 - Telegram Channel: [OdinGame](https://t.me/odin_game)
 
-<!-- ![GitHub license](https://github.com/imahdiahz/tweet/blob/main/LICENSE) -->
+### License
+![GitHub license](https://github.com/imahdiahz/tweet/blob/main/LICENSE)
