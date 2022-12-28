@@ -1,7 +1,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![GitHub forks](https://github.com/imahdiahz/tweet/network/members)
+<!-- ![GitHub forks](https://github.com/imahdiahz/tweet/network/members) -->
 
-![GitHub stars](https://github.com/imahdiahz/tweet/stargazers)
+<!-- ![GitHub stars](https://github.com/imahdiahz/tweet/stargazers) -->
 # ربات ارسال بیانیه در کانال برای گیم های متنی 🔥
 # توئیت بات 
 - 🔱 با این ربات پلیر های شما میتوانند در کانال مورد نظر شما بیانیه یا توئیت ارسال کنند 🔱
